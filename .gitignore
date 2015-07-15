@@ -1,3 +1,6 @@
 logs
+logs/*
 crash-reports
+crash-reports/*
 reports
+reports/*
