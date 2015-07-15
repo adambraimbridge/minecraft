@@ -1,2 +1,2 @@
 # minecraft
-Minecraft server
+Minecraft server: Resonant Rise 3. Current share code: 3VDrYRsc
