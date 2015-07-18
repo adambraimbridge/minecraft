@@ -1,46 +1,7 @@
 INFO: Adding command minetweaker
 INFO: Adding minetweaker command mfr
-ERROR: AncientWarfareFix.zs:5: Could not resolve <AncientWarfare : component : 4>
-ERROR: AncientWarfareFix.zs:6: Could not resolve <AncientWarfare : component : 4>
-ERROR: Error executing AncientWarfareFix.zs: null
-java.lang.NullPointerException
-	at minetweaker.mc1710.recipes.MCRecipeManager.remove(MCRecipeManager.java:94)
-	at AncientWarfareFix.__script__(AncientWarfareFix.zs:5)
-	at __ZenMain__.run(AncientWarfareFix.zs)
-	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
-	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:624)
-	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:555)
-	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:166)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
-	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
-	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
-	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
-	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
-	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
-	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
-	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
-	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
-	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
-	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
-	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
-	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
-	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
-	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
-	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:256)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing 1 recipes
+INFO: Adding recipe for Iron Bushing Set Set
 ERROR: Thaumcraft.zs:2: Could not resolve <ThaumicTinkerer : ichorclothHelm>
 ERROR: Thaumcraft.zs:2: Could not resolve <ThaumicTinkerer : kamiResource>
 ERROR: Thaumcraft.zs:2: Could not resolve <ThaumicTinkerer : kamiResource>
