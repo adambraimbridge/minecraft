@@ -1,112 +1,53 @@
-[04:52:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2961ms behind, skipping 59 tick(s)
-[13:29:23] [User Authenticator #8/INFO]: UUID of player heckless is 14ca001e-3939-47f8-8b6d-e53dbdff2264
-[13:29:24] [Server thread/INFO]: heckless[/81.187.229.102:57486] logged in with entity id 305288 at (-104.35000235777885, 48.0, 528.9173634794256)
-[13:29:24] [Server thread/INFO]: heckless joined the game
-[14:38:20] [Server thread/INFO]: heckless fell off a ladder
-[15:10:24] [Server thread/INFO]: heckless was shot by Pirate Archer
-[15:10:44] [Server thread/INFO]: heckless lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[15:10:44] [Server thread/INFO]: heckless left the game
-[17:06:45] [User Authenticator #9/INFO]: UUID of player heckless is 14ca001e-3939-47f8-8b6d-e53dbdff2264
-[17:06:46] [Server thread/INFO]: heckless[/81.187.229.102:59630] logged in with entity id 463219 at (-195.30000001192093, 68.0, 778.9927476957536)
-[17:06:46] [Server thread/INFO]: heckless joined the game
-[18:21:53] [Server thread/INFO]: heckless was slain by Zombie
-[18:32:01] [User Authenticator #10/INFO]: UUID of player RowanBeentje is 87b8c68b-e3ad-4bae-b47c-b3ad20221a11
-[18:32:01] [Server thread/INFO]: RowanBeentje[/87.127.122.195:38083] logged in with entity id 720049 at (-245.0807366981818, 68.0, 716.3452749875917)
-[18:32:01] [Server thread/INFO]: RowanBeentje joined the game
-[18:32:37] [Server thread/INFO]: <RowanBeentje> Evening!
-[18:32:45] [Server thread/INFO]: <heckless> Hola :)
-[18:33:13] [Server thread/INFO]: <heckless> you must be close by.
-[18:33:57] [Server thread/INFO]: <RowanBeentje> I wandered, um, southwest a bit from spawn I think, trying to find a place to start off...
-[18:34:42] [Server thread/INFO]: <heckless> You'll come by a village in that direction
-[18:36:52] [Server thread/INFO]: RowanBeentje was blown up by Creeper
-[18:37:13] [Server thread/INFO]: <RowanBeentje> saw it on the map, getting there was a touch harder ;)
-[18:37:21] [Server thread/INFO]: <heckless> Whoops
-[18:38:56] [Server thread/INFO]: <heckless> I'm setting up in a castle to the east of that village, on the coast
-[18:39:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2218ms behind, skipping 44 tick(s)
-[18:40:05] [Server thread/INFO]: RowanBeentje was slain by Zombie
-[18:42:42] [Server thread/INFO]: <heckless> I'm at -200, +775
-[18:48:34] [Server thread/INFO]: <heckless> Heeeyyyy]#
-[18:48:41] [Server thread/INFO]: <RowanBeentje> heyyyy
-[18:48:45] [Server thread/INFO]: <RowanBeentje> very nice already!
-[18:48:48] [Server thread/INFO]: <heckless> Help y'self from these chests down here
-[18:48:52] [Server thread/INFO]: <RowanBeentje> like the wooden walkways
-[18:49:11] [Server thread/INFO]: <heckless> or those two chests up there
-[18:49:24] [Server thread/INFO]: <heckless> this castle's auto-generated
-[18:49:35] [Server thread/INFO]: <RowanBeentje> oh :D
-[18:49:39] [Server thread/INFO]: <heckless> there's another one to the west I want to raid
-[18:49:59] [Server thread/INFO]: <heckless> it might be a good starter base for you
-[18:50:18] [Server thread/INFO]: <RowanBeentje> so the other side of the village, ish?
-[18:50:27] [Server thread/INFO]: <heckless> by the way, you feeling okay? you look a bit zobieish
-[18:51:08] [Server thread/INFO]: <RowanBeentje> I keep getting beaten up by monsters wherever I go
-[18:51:27] [Server thread/INFO]: <RowanBeentje> they need to work on making it tourist-friendly round here
-[18:51:55] [Server thread/INFO]: <RowanBeentje> speaking of which, I'm going to go look around while it's light
-[18:52:00] [Server thread/INFO]: <RowanBeentje> they mostly come at night
-[18:52:02] [Server thread/INFO]: <RowanBeentje> mostly
-[18:52:06] [Server thread/INFO]: <heckless> Roger
-[18:52:12] [Server thread/INFO]: <RowanBeentje> oh, too late :D
-[18:52:21] [Server thread/INFO]: <heckless> hahaha
-[18:52:30] [Server thread/INFO]: <RowanBeentje> oooh, nice
-[18:52:36] [Server thread/INFO]: <heckless> gott figure out how to make those gates
-[18:52:53] [Server thread/INFO]: <RowanBeentje> that is really nice
-[18:56:01] [Server thread/INFO]: RowanBeentje has just earned the achievement [Time to Strike!]
-[18:56:21] [Server thread/INFO]: RowanBeentje has just earned the achievement [Time to Mine!]
-[18:56:24] [Server thread/INFO]: <heckless> fire hazard much
-[18:56:41] [Server thread/INFO]: <RowanBeentje> hm, yes, one disadvantage of wood everywhere...
-[18:57:11] [Server thread/INFO]: <RowanBeentje> afk a sec...
-[18:57:16] [Server thread/INFO]: <heckless> ok
-[18:58:02] [Server thread/INFO]: RowanBeentje was slain by Zombie
-[19:03:14] [Server thread/INFO]: <RowanBeentje> heh
-[19:03:58] [Server thread/INFO]: <heckless> It was weird, I didn't see the zombie that got you, even though I was right next you you
-[19:04:28] [Server thread/INFO]: <RowanBeentje> maybe it got me through a window?
-[19:04:52] [Server thread/INFO]: <heckless> yeah, I found out where it got in and plugged the hole
-[19:06:05] [Server thread/INFO]: RowanBeentje has just earned the achievement [Cow Tipper]
-[19:24:12] [Server thread/INFO]: RowanBeentje lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:24:12] [Server thread/INFO]: RowanBeentje left the game
-[19:29:13] [User Authenticator #11/INFO]: UUID of player RowanBeentje is 87b8c68b-e3ad-4bae-b47c-b3ad20221a11
-[19:29:14] [Server thread/INFO]: RowanBeentje[/87.127.122.195:48763] logged in with entity id 853933 at (-470.29225679327897, 85.0, 564.4729898767296)
-[19:29:14] [Server thread/INFO]: RowanBeentje joined the game
-[19:34:25] [Server thread/INFO]: <RowanBeentje> ok, found the big fortress to the west ;) Think I'll do something a bit closer to spawn for now...
-[19:38:53] [Server thread/INFO]: RowanBeentje lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:38:53] [Server thread/INFO]: RowanBeentje left the game
-[19:40:43] [User Authenticator #12/INFO]: UUID of player RowanBeentje is 87b8c68b-e3ad-4bae-b47c-b3ad20221a11
-[19:40:43] [Server thread/INFO]: RowanBeentje[/87.127.122.195:40195] logged in with entity id 885023 at (-662.3247512211062, 74.0, 579.5264247087913)
-[19:40:43] [Server thread/INFO]: RowanBeentje joined the game
-[19:41:46] [Server thread/INFO]: RowanBeentje has just earned the achievement [Monster Hunter]
-[19:48:00] [Server thread/INFO]: RowanBeentje has just earned the achievement [Getting an Upgrade]
-[19:51:21] [Server thread/INFO]: RowanBeentje was shot by Viking Archer
-[20:07:27] [Server thread/WARN]: heckless moved too quickly! 4.418693600751794,0.0049177299435640975,12.069664020427467 (4.418693600751794, 0.10000000538150364, 12.069664020427467)
-[20:53:10] [Server thread/INFO]: <heckless> fancy meetin goyu here
-[20:53:11] [Server thread/INFO]: <RowanBeentje> :)
-[20:59:11] [Server thread/INFO]: heckless has just earned the achievement [Time to Farm!]
-[20:59:30] [Server thread/INFO]: <RowanBeentje> you hoe.
-[20:59:33] [Server thread/INFO]: <heckless> hahaha
-[21:24:04] [Server thread/INFO]: <heckless> Do you have a bed?
-[21:24:32] [Server thread/INFO]: <RowanBeentje> ooh, no, good point
-[21:25:32] [Server thread/INFO]: <heckless> some wool and logs
-[21:25:36] [Server thread/INFO]: <RowanBeentje> hehe, you're a bit arrowed
-[21:25:48] [Server thread/INFO]: <heckless> oh byu the way we're due for a red mmoin soon
-[21:25:53] [Server thread/INFO]: <heckless> *moon
-[21:26:00] [Server thread/INFO]: <RowanBeentje> harder monsters?
-[21:26:21] [Server thread/INFO]: <heckless> if you see a message about a red moon rising, get shelter real quick
-[21:26:27] [Server thread/INFO]: <RowanBeentje> hah, thanks
-[21:26:32] [Server thread/INFO]: <heckless> same monsters, but millions of them
-[21:26:36] [Server thread/INFO]: <RowanBeentje> :D
-[21:26:55] [Server thread/INFO]: <heckless> if you have the right set-up you can make lots of xp
-[21:27:42] [Server thread/INFO]: <heckless> hahah poor guy
-[21:28:04] [Server thread/INFO]: <RowanBeentje> snowballs aren't very effective, are they!
-[21:30:11] [Server thread/INFO]: <RowanBeentje> nice little village
-[21:31:12] [Server thread/INFO]: <heckless> i like how they're so primitive and on the barter syustem, but will swap for electronioc components
-[21:31:24] [Server thread/INFO]: <RowanBeentje> hehe, yes, and the advanced one too
-[21:31:57] [Server thread/INFO]: <RowanBeentje> And th librarian does books for emeralds, hm
-[21:40:46] [Server thread/INFO]: heckless fell from a high place
-[22:00:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2987ms behind, skipping 59 tick(s)
-[22:10:50] [Server thread/INFO]: <heckless> Wow
-[22:11:07] [Server thread/INFO]: <heckless> there's a huuuuuge bandit town to the south east
-[22:11:30] [Server thread/INFO]: <RowanBeentje> Of your fort? coool
-[22:19:46] [Server thread/INFO]: RowanBeentje was slain by Zombie
-[22:28:01] [Server thread/INFO]: <RowanBeentje> Later :)
-[22:28:08] [Server thread/INFO]: RowanBeentje lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:28:08] [Server thread/INFO]: RowanBeentje left the game
-[23:07:06] [Server thread/INFO]: heckless lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[23:07:06] [Server thread/INFO]: heckless left the game
-[23:09:29] [Server Shutdown Thread/INFO]: Stopping server
+[19:14:02] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:08] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:08] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:08] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:15] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
+[19:14:15] [Server thread/ERROR]: Couldn't process command: 'help'
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeLo(ComparableTimSort.java:714) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.mergeAt(ComparableTimSort.java:451) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.mergeCollapse(ComparableTimSort.java:376) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:182) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:146) ~[?:1.7.0_80]
+	at java.util.Arrays.sort(Arrays.java:472) ~[?:1.7.0_80]
+	at java.util.Collections.sort(Collections.java:155) ~[?:1.7.0_80]
+	at net.minecraft.command.CommandHelp.func_71534_d(SourceFile:84) ~[au.class:?]
+	at net.minecraft.command.CommandHelp.func_71515_b(SourceFile:38) ~[au.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:94) [z.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:370) [lt.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:335) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[19:14:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:27] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
+[19:14:27] [Server thread/ERROR]: Couldn't process command: 'help'
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeLo(ComparableTimSort.java:714) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.mergeAt(ComparableTimSort.java:451) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.mergeCollapse(ComparableTimSort.java:376) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:182) ~[?:1.7.0_80]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:146) ~[?:1.7.0_80]
+	at java.util.Arrays.sort(Arrays.java:472) ~[?:1.7.0_80]
+	at java.util.Collections.sort(Collections.java:155) ~[?:1.7.0_80]
+	at net.minecraft.command.CommandHelp.func_71534_d(SourceFile:84) ~[au.class:?]
+	at net.minecraft.command.CommandHelp.func_71515_b(SourceFile:38) ~[au.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:94) [z.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:370) [lt.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:335) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[19:14:30] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:34] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:37] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:37] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:37] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:38] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:14:47] [Server Shutdown Thread/INFO]: Stopping server
+[19:14:47] [Server Shutdown Thread/INFO]: Saving players
+[19:14:47] [Server Shutdown Thread/INFO]: Saving worlds
